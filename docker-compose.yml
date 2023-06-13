@@ -3,7 +3,7 @@ services:
   progress:
     build: .
     ports:
-      - "3000:3000"
+      - "3001:3001"
     volumes:
       - ".:/opt/progress"
       - "/opt/reactions/node_modules"
