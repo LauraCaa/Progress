@@ -1,0 +1,17 @@
+.FoodTable {
+    background-color: rgb(214, 168, 204);
+    height: 500px;
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+
+  }
+.FoodBody {
+    text-align: center;
+}
+.FlexAmount {
+    display: flex;
+    align-items: center;
+    margin-left: 35px;
+}
+  
